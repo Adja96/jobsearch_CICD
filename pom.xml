@@ -12,7 +12,7 @@
 	<artifactId>admin-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>admin-app</name>
-	<description>Administration d&apos;une application de gestion de produits</description>
+	<description></description>
 	<properties>
 		<java.version>1.8</java.version>
 		<docker.user/>
@@ -175,7 +175,7 @@
 						</exclude>
 					</excludes>
 					<image>
-						<name>bthiam/${project.artifactId}:${project.version}</name>
+						<name>Adja96/${project.artifactId}:${project.version}</name>
 					</image>
 					<docker>
 						<publishRegistry>
