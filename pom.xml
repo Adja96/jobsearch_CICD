@@ -175,7 +175,7 @@
 						</exclude>
 					</excludes>
 					<image>
-						<name>Adja96/${project.artifactId}:${project.version}</name>
+						<name>adja96/${project.artifactId}:${project.version}</name>
 					</image>
 					<docker>
 						<publishRegistry>
