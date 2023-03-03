@@ -98,7 +98,7 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		<!-- test unitaire  -->
+		<!-- test unitaire cc -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
